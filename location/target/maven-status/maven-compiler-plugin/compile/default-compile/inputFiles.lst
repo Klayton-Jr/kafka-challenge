@@ -1,0 +1,8 @@
+/home/klayton/java/learn-kafka/location/src/main/java/com/croct/event/InputEvent.java
+/home/klayton/java/learn-kafka/location/src/main/java/com/croct/IpLocationService.java
+/home/klayton/java/learn-kafka/location/src/main/java/com/croct/event/JsonDeserializer.java
+/home/klayton/java/learn-kafka/location/src/main/java/com/croct/event/OutputSerde.java
+/home/klayton/java/learn-kafka/location/src/main/java/com/croct/event/OutputEvent.java
+/home/klayton/java/learn-kafka/location/src/main/java/com/croct/Location.java
+/home/klayton/java/learn-kafka/location/src/main/java/com/croct/event/InputSerde.java
+/home/klayton/java/learn-kafka/location/src/main/java/com/croct/event/JsonSerializer.java
