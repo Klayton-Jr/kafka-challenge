@@ -12,7 +12,7 @@ import java.io.IOException;
 
 public class IpLocationService {
 
-    private static final String ACESS_KEY = "0a7406d812570ffc698df71850867682";
+    private static final String ACESS_KEY = "";
     private static final String ENDPOINT_IPSTACK = "http://api.ipstack.com";
 
 
